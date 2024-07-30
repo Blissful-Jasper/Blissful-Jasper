@@ -1,47 +1,40 @@
-## Hi there 👋
-
 <!--
-**Blissful-Jasper/Blissful-Jasper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Blissful-Jasper/Blissful-Jasper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Hi there 👋, I'm Japser 😁.
 
-<!-- - 🔭 I’m currently working on ... -->
+## Hi there 👋, I'm Japser 😁
 
-- 📚 I use <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height=20 /></code> <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height=20 /></code> <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height=20 /></code> <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height=20 /></code> <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" height=20 /></code>
+### About Me
+- 🔭 I’m currently working on research in **tropical atmospheric waves**.
+- 🌱 I’m currently learning **deep learning applications** in **short-term precipitation forecasting**.
+- 💬 Ask me about **ocean science**, **convectively coupled waves**, and **numerical weather prediction**!
+- 📫 How to reach me: [xianpuji@hhu.edu.cn]
 
+### Research Interests
+I’m a **PhD student** in **ocean science**, focusing on **tropical atmospheric waves**. My interests include:
+- **Convectively coupled waves**
+- **Deep learning applications** in **short-term precipitation forecasting**
 
-<!-- - 🌱 I’m currently learning <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" height=20 /></code> <code><img src="https://vitejs.dev/logo.svg" height=20 /></code> -->
+### Tools & Skills
+I primarily use:
+- **Programming Languages:** **Python**, **MATLAB**, **NCL**, basic **Linux** commands, **CDO**
+- **Deep Learning Frameworks:** **TensorFlow** (for simple deep learning tasks)
+- **Numerical Simulations:** **WRF** (Weather Research and Forecasting model)
+- **Diagnostic Equations & Budget:** For studying **atmospheric wave dynamics**
 
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: ... -->
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
+### Fun Facts
+- I enjoy playing **badminton** 🏸
+- I love to keep active with **cycling**, **running**, and **working out** 🚴🏃💪
 
+### GitHub Analytics
 
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZxBing0066&count_private=true&show_icons=true" alt="ZxBing0066's GitHub stats" />
-    <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZxBing0066&show_icons=true&layout=compact" /> -->
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZxBing0066&count_private=true&show_icons=true&theme=radical" alt="ZxBing0066's GitHub stats" />
-    <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZxBing0066&show_icons=true&theme=radical&layout=compact" /> -->
-  </a>
-</div>
+<!-- GitHub Stats -->
+![Jasper's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blissful-Jasper&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
+<!-- Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blissful-Jasper&layout=compact&theme=radical)
 
+<!-- Activity Graph -->
+![Jasper's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Blissful-Jasper&theme=dracula)
 
-
+Feel free to connect and collaborate on exciting ocean and atmospheric science projects!
