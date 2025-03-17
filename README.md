@@ -14,7 +14,7 @@ Blissful-Jasper/Blissful-Jasper** is a ✨ _special_ ✨ repository because its 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blissful-Jasper&repo=jianpu_record)](https://github.com/Blissful-Jasper/jianpu_record)
 
 
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Blissful-Jasper)](https://github.com/Blissful-Jasper/jianpu_record)
 
 
 ### About Me
