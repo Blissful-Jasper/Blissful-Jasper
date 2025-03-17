@@ -5,13 +5,6 @@ Blissful-Jasper/Blissful-Jasper** is a ✨ _special_ ✨ repository because its 
 ## Hi there 👋, I'm Jasper 😁
 
 <!-- GitHub Stats -->
-![Jasper's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blissful-Jasper&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=transparent&layout=Default&size_weight=0.2&count_weight=0.5)
-
-<!-- Most Used Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blissful-Jasper&theme=transparent)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blissful-Jasper&repo=jianpu_record)](https://github.com/Blissful-Jasper/jianpu_record)
 
 <a href="https://github.com/Blissful-Jasper/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Blissful-Jasper" />
@@ -19,6 +12,19 @@ Blissful-Jasper/Blissful-Jasper** is a ✨ _special_ ✨ repository because its 
 <a href="https://github.com/Blissful-Jasper/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Blissful-Jasper&layout=compact&langs_count=8&card_width=320" />
 </a>
+<!---
+/![Jasper's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blissful-/Jasper&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=transparent&layout=Default&size_weight=0.2&count_weight=0.5)
+<!-- Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blissful-Jasper&theme=transparent)
+
+-->
+
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blissful-Jasper&repo=jianpu_record)](https://github.com/Blissful-Jasper/jianpu_record)
+
+
 
 
 ### About Me
