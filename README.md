@@ -9,18 +9,9 @@ Blissful-Jasper/Blissful-Jasper** is a ✨ _special_ ✨ repository because its 
 
 <!-- Most Used Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blissful-Jasper&layout=compact&theme=transparent)
-## My rep
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blissful-Jasper&repo=jianpu_record)](https://github.com/Blissful-Jasper/jianpu_record)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blissful-Jasper&repo=Wheeler_Kiladis_Space_Time_Spectra_Analysis)](https://github.com/Blissful-Jasper/Wheeler_Kiladis_Space_Time_Spectra_Analysis)
-
-| GitHub Stats                                        | Most Used Languages                                 |
-| --------------------------------------------------- | --------------------------------------------------- |
-| ![Jasper's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blissful-Jasper&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=transparent) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blissful-Jasper&layout=compact&theme=transparent) |
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blissful-Jasper&repo=jianpu_record)](https://github.com/Blissful-Jasper/jianpu_record)
-
-
 
 
 
