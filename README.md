@@ -15,13 +15,6 @@ Blissful-Jasper/Blissful-Jasper** is a ✨ _special_ ✨ repository because its 
 
 
 
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blissful-Jasper&repo=jianpu_record)](https://github.com/Blissful-Jasper/jianpu_record)
-
-
-
-
 ### About Me
 - 🔭 I’m currently working on research in **tropical atmospheric waves**.
 - 🌱 I’m currently learning **deep learning applications** in **short-term precipitation forecasting**.
