@@ -3,6 +3,18 @@ Blissful-Jasper/Blissful-Jasper** is a ✨ _special_ ✨ repository because its 
 -->
 
 ## Hi there 👋, I'm Jasper 😁
+### GitHub Analytics
+
+<!-- GitHub Stats -->
+![Jasper's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blissful-Jasper&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=transparent)
+
+<!-- Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blissful-Jasper&layout=compact&theme=transparent)
+## Star History
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blissful-Jasper&repo=jianpu_record)](https://github.com/Blissful-Jasper/jianpu_record)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blissful-Jasper&repo=Wheeler_Kiladis_Space_Time_Spectra_Analysis)](https://github.com/Blissful-Jasper/Wheeler_Kiladis_Space_Time_Spectra_Analysis)
+
 
 ### About Me
 - 🔭 I’m currently working on research in **tropical atmospheric waves**.
@@ -26,14 +38,5 @@ I primarily use:
 - I enjoy playing **badminton** 🏸
 - I love to keep active with **cycling**, **running**, and **working out** 🚴🏃💪
 
-### GitHub Analytics
-
-<!-- GitHub Stats -->
-![Jasper's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blissful-Jasper&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=transparent)
-
-<!-- Most Used Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blissful-Jasper&layout=compact&theme=transparent)
-## Star History
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blissful-Jasper&repo=jianpu_record)](https://github.com/Blissful-Jasper/jianpu_record)
 
 Feel free to connect and collaborate on exciting ocean and atmospheric science projects!
