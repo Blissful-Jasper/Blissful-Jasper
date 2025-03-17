@@ -34,6 +34,6 @@ I primarily use:
 <!-- Most Used Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blissful-Jasper&layout=compact&theme=transparent)
 ## Star History
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blissful-Jasper&repo=github-readme-stats)](https://github.com/Blissful-Jasper/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blissful-Jasper&repo=jianpu_record)](https://github.com/Blissful-Jasper/jianpu_record)
 
 Feel free to connect and collaborate on exciting ocean and atmospheric science projects!
