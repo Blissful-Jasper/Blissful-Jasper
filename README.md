@@ -35,7 +35,7 @@ I primarily use:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blissful-Jasper&layout=compact&theme=radical)
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Blissful-Jasper/jianpu_record&type=Date)](https://www.star-history.com/#Blissful-Jasper/jianpu_record&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Blissful-Jasper/jianpu_record&type=Date)]
 
 <!-- Activity Graph -->
 
