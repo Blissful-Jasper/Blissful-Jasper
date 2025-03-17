@@ -29,10 +29,10 @@ I primarily use:
 ### GitHub Analytics
 
 <!-- GitHub Stats -->
-![Jasper's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blissful-Jasper&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Jasper's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blissful-Jasper&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=transparent)
 
 <!-- Most Used Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blissful-Jasper&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blissful-Jasper&layout=compact&theme=transparent)
 ## Star History
 
 
