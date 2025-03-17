@@ -34,6 +34,9 @@ I primarily use:
 <!-- Most Used Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blissful-Jasper&layout=compact&theme=radical)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=https:/&type=Date)](https://www.star-history.com/#https:/&Date)
 <!-- Activity Graph -->
 
 Feel free to connect and collaborate on exciting ocean and atmospheric science projects!
